@@ -1,0 +1,307 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    background-color: grey;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    justify-content: space-between;
+    /* opacity:0.8;
+    filter:alpha(opacity=60); */
+
+}
+.one{
+    font-size: 1.9rem;
+    color: black;
+    font-weight: 700;
+    padding-right: 150px;
+}
+.two{
+    color: red;
+}
+.third{
+    list-style: none;
+    display: flex;
+    font-size: 1.6rem;
+    color: black;
+    cursor: pointer;
+    font-weight: 800;
+}
+li{
+    padding-right: 100px;
+}
+.news{
+    text-decoration: none;
+    color: black;
+}
+.four{
+    text-decoration: none;
+    color: red;
+}
+.photo_main{
+    background-image: url(images/pencil.jpg);
+    width: 100%;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity:0.8;
+    filter:alpha(opacity=60); */
+}
+.main_yy{
+    display: flex;
+    padding-top: 100px;
+}
+.text{
+    padding-left: 250px;
+    padding-top: 60px;
+    padding-right: 40px;
+
+}
+.fifth{
+    font-size: 3rem;
+    color: #fff;
+    font-weight: 650;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom:40px;
+}
+.six{
+    font-size: 0.9rem;
+    color: #fff;
+    font-weight: 650;
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-bottom:40px;
+}
+.seven{
+    width: 160px;
+    height: 55px;
+    border-radius: 25px;
+    color: #fff;
+    background-color: rgb(40, 39, 39);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+.eight{
+    text-decoration: none;
+    color: #fff;
+}
+.login{
+    height: 500px;
+    width: 550px;
+    border: solid rgb(40, 39, 39) 1px;
+    background-color: rgb(40, 39, 39);
+    border-radius: 5px;
+}
+.nine{
+    width: 400px;
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: grey;
+    font-style: italic;
+}
+.ten{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 0.8rem;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.eleven{
+    width: 215px;
+    height: 65px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 0.8rem;
+    cursor: pointer;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.reason{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(1, 0, 13);
+    color: #fff;
+}
+.twelve{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 90px;
+}
+.for{
+    display: flex;
+}
+.thirteen{
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 520;
+    padding-top: 50px;
+    padding-bottom: 13px;
+    color: red;
+}
+.money{
+    padding-left: 200px;
+
+}
+.helpful{
+    padding-left: 170px;
+
+}
+.credit{
+    padding-left: 120px;
+
+}
+.italic{
+    font-style: italic;
+}
+.fourteen{
+    width: 215px;
+    height: 65px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 0.8rem;
+    cursor: pointer;
+    margin-left: 650px;
+    margin-top: 90px;
+}
+.light{
+    background-image: url(images/light.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+}
+.fifthteen{
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 70px;
+    color: orangered;
+}
+.sixteen{
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+    padding-top: 7px;
+    color: rgb(24, 23, 23);
+}
+.eleven3{
+    width: 215px;
+    height: 65px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: rgb(30, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 0.8rem;
+    cursor: pointer;
+    margin-left: 650px;
+    margin-top: 70px;
+}
+.pigge{
+    background-color: rgb(19, 19, 19);
+    width: 100%;
+    height: 550px;
+    color: #fff;
+    display: flex;
+}
+.pigge_img{
+    width:700px;
+    height: 500px;
+    padding-left: 180px;
+    padding-top: 90px;
+}
+.top{
+    padding-left: 30px;
+    padding-top: 120px;
+}
+.seventeen{
+    font-size: 2.35rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.eightteen{
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+    color: grey;
+    padding-top: 10px;
+}
+.nineteen{
+    font-size: 0.95rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+    color: grey;
+    padding-top: 40px;
+}
+.twenty{
+    font-size: 1.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.twentyone{
+    text-decoration: none;
+    color: orangered;
+}
+.foot_div{
+    background-image: url(images/red_and_black.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    color: #fff;
+}
+.twentytwo{
+    font-size: 2.9rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-left: 150px;
+    padding-top: 40px;
+}
+.twentythree{
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    padding-left: 150px;
+    padding-top: 20px;
+    color: orangered;
+}
+.twentyfour{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    /* font-style: italic; */
+    padding-left: 150px;
+    padding-top: 20px;
+    color: rgb(181, 177, 177);
+}
+.twentyfife{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    padding-left: 150px;
+    padding-top: 180px;
+    color: #fff;
+}
